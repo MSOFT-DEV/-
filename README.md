@@ -17,6 +17,9 @@
    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="Twitter Badge"/>
    <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="Twitter Badge"/>
     <img src="https://img.shields.io/badge/SWIFT-orange?style=for-the-badge&logo=swift&logoColor=white" alt="Twitter Badge"/>
+   <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white" alt="Twitter Badge"/>
+   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
+   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Twitter Badge"/>
 </div>
 </div>
 
