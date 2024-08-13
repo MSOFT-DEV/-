@@ -1,4 +1,4 @@
-<div style={{}}>
+<div align="center">
   <h1>Агентство по разработке приложений полного цикла</h1>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1yMGRmOWMyazJhazdqbjBsYjBxaTB0M3ZyNHF0MGVnNzZuMTNxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif"></img>
 <p>IT компания, которая заботится о своих продуктах.
