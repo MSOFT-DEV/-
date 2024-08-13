@@ -7,6 +7,7 @@
 Разрабатываем мобильные приложения полного цикла для ANDROID и iOS, сайты любой сложности, комплексные решения.
 Сложные проекты для нас принципиальный вызов, которого мы не боимся.
 </p>
+  <h2>Наши скиллы</h2>
 <div id="badges">
   <img src="https://img.shields.io/badge/React-JS-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Express-red?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/>
