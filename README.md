@@ -9,5 +9,5 @@
 <div id="badges">
   <img src="https://img.shields.io/badge/React-JS-blue?style=for-the-badge&logo=react&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Express-red?style=for-the-badge&logo=express&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Next-blue?style=for-the-badge&logo=next&logoColor=white" alt="Twitter Badge"/>
 </div>
