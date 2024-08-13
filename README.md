@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Next-JS-blue?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next Badge"/>
   <img src="https://img.shields.io/badge/Tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Twitter Badge"/>
     <img src="https://img.shields.io/badge/Node-JS-blue?style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
-   <img src="https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white" alt="Twitter Badge"/>
+   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" alt="Twitter Badge"/>
 </div>
 </div>
 
