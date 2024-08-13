@@ -1,4 +1,1 @@
-<h1>Hello, we MSOFT COMP</h1>
-
-
-# .github
+<h1>Hello, we MSOFT</h1>
