@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Агентство по разработке приложений полного цикла</h1>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1yMGRmOWMyazJhazdqbjBsYjBxaTB0M3ZyNHF0MGVnNzZuMTNxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif"></img>
+<img src="https://msoft.pw/static/images/general/logo.svg"></img>
 <p>IT компания, которая заботится о своих продуктах.
 Дата основания - 2018г.
 Наш штат - 23 человека. Дизайнеры, программисты, тестировщики. Мы полная, дружная, профессиональная команда.
