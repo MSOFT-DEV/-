@@ -11,8 +11,8 @@
 <div id="badges">
   <img src="https://img.shields.io/badge/React-JS-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Express-red?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/>
-  <img src="https://img.shields.io/badge/Next-JS-blue?style=for-the-badge&logo=nextjs&logoColor=white" alt="Next Badge"/>
-  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Next-JS-blue?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next Badge"/>
+  <img src="https://img.shields.io/badge/Tailwindcss?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Twitter Badge"/>
 </div>
 </div>
 
