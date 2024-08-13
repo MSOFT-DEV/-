@@ -20,6 +20,8 @@
    <img src="https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=white" alt="Twitter Badge"/>
    <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
    <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Twitter Badge"/>
+   <img src="https://img.shields.io/badge/Apache-red?style=for-the-badge&logo=apache&logoColor=white" alt="Twitter Badge"/>
+   <img src="https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx&logoColor=white" alt="Twitter Badge"/>
 </div>
 </div>
 
