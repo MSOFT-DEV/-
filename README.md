@@ -1,4 +1,5 @@
-<h1>Агентство по разработке приложений полного цикла</h1>
+<div style={{}}>
+  <h1>Агентство по разработке приложений полного цикла</h1>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1yMGRmOWMyazJhazdqbjBsYjBxaTB0M3ZyNHF0MGVnNzZuMTNxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif"></img>
 <p>IT компания, которая заботится о своих продуктах.
 Дата основания - 2018г.
@@ -11,3 +12,5 @@
   <img src="https://img.shields.io/badge/Express-red?style=for-the-badge&logo=express&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Next-blue?style=for-the-badge&logo=next&logoColor=white" alt="Twitter Badge"/>
 </div>
+</div>
+
