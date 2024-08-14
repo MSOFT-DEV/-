@@ -24,7 +24,7 @@
    <img src="https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx&logoColor=white" alt="Twitter Badge"/>
 </div>
   <div  flex-direction: row>
-     <img src="https://msoft.pw/static/images/general/doing-1.svg" width="40" height="40" alt="Twitter Badge"></img> Анализируем
+    :telescope: <img src="https://msoft.pw/static/images/general/doing-1.svg" width="40" height="40" alt="Twitter Badge"></img> 
      
   </div>
  
