@@ -23,7 +23,7 @@
    <img src="https://img.shields.io/badge/Apache-red?style=for-the-badge&logo=apache&logoColor=white" alt="Twitter Badge"/>
    <img src="https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx&logoColor=white" alt="Twitter Badge"/>
 </div>
-  <div>
+  <div flex-1>
      <img src="https://msoft.pw/static/images/general/doing-1.svg" width="40" height="40" alt="Twitter Badge"/>
      <h3>Анализируем</h3>
   </div>
