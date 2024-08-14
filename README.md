@@ -7,7 +7,7 @@
 Разрабатываем мобильные приложения полного цикла для ANDROID и iOS, сайты любой сложности, комплексные решения.
 Сложные проекты для нас принципиальный вызов, которого мы не боимся.
 </p>
-  <h2>Наши скиллы</h2>
+  <h2>Языки и инструменты</h2>
 <div id="badges">
   <img src="https://img.shields.io/badge/React-JS-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Express-red?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/>
@@ -71,5 +71,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/webpack/webpack-original.svg" title="Git" **alt="Git" width="40" height="40"/> 
   </div>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeVS404&theme=dark&hide_border=true" alt="GitHub Streak" /></a>/></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak" /></a>/></a>
 </div>
 
