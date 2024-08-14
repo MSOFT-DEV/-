@@ -7,7 +7,7 @@
 Разрабатываем мобильные приложения полного цикла для ANDROID и iOS, сайты любой сложности, комплексные решения.
 Сложные проекты для нас принципиальный вызов, которого мы не боимся.
 </p>
-  <h2>Языки и инструменты</h2>
+ 
 <div id="badges">
   <img src="https://img.shields.io/badge/React-JS-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Express-red?style=for-the-badge&logo=express&logoColor=white" alt="Express Badge"/>
@@ -33,7 +33,7 @@
    <h3> :computer:Тестируем</h3>
     Проводим ручное функциональное тестирование и пишем UI-автотесты. Готовим чек-листы и тест-кейсы.
   </div>
-
+ <h2>Языки и инструменты</h2>
   <div id="badges">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
