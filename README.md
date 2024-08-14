@@ -71,6 +71,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/webpack/webpack-original.svg" title="Git" **alt="Git" width="40" height="40"/> 
   </div>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeVS404&theme=dark&hide_border=true" alt="GitHub Streak" /></a>/></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak" /></a>/></a>
+ 
 </div>
+ <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak" /></a>/></a>
 
