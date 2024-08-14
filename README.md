@@ -23,10 +23,10 @@
    <img src="https://img.shields.io/badge/Apache-red?style=for-the-badge&logo=apache&logoColor=white" alt="Twitter Badge"/>
    <img src="https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx&logoColor=white" alt="Twitter Badge"/>
 </div>
-    :telescope:<h3>Прототипируем и дизайним</h3>
-  <h3>Прототипируем и дизайним</h3>
-  <h3>Программируем</h3>
-  <h3>Тестируем</h3>
+    :telescope: Анализируем
+  :fireworks:Прототипируем и дизайним 
+  :firecracker:Программируем
+  :computer:Тестируем
   <div id="badges">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
