@@ -24,10 +24,10 @@
    <img src="https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx&logoColor=white" alt="Twitter Badge"/>
 </div>
   <div>
-      :telescope: Анализируем
-  :fireworks:Прототипируем и дизайним 
-  :firecracker:Программируем
-  :computer:Тестируем
+      <h3>:telescope: Анализируем</h3>
+   <h3> :fireworks:Прототипируем и дизайним </h3>
+    <h3>:firecracker:Программируем</h3>
+   <h3> :computer:Тестируем</h3>
   </div>
 
   <div id="badges">
