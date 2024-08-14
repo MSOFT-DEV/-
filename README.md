@@ -70,7 +70,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/electron/electron-original.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/webpack/webpack-original.svg" title="Git" **alt="Git" width="40" height="40"/> 
   </div>
-  ### :fire: My Stats :
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeVS404&exclude_days=Sun%2CMon" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeVS404&theme=dark&hide_border=true" alt="GitHub Streak" /></a>/></a>
 </div>
 
