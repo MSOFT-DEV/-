@@ -25,7 +25,7 @@
 </div>
   <div  flex-direction: row>
      <img src="https://msoft.pw/static/images/general/doing-1.svg" width="40" height="40" alt="Twitter Badge"/>
-     <h3>Анализируем</h3>
+     Анализируем
   </div>
  
   <h3>Прототипируем и дизайним</h3>
