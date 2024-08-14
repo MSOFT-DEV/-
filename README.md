@@ -23,8 +23,9 @@
    <img src="https://img.shields.io/badge/Apache-red?style=for-the-badge&logo=apache&logoColor=white" alt="Twitter Badge"/>
    <img src="https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx&logoColor=white" alt="Twitter Badge"/>
 </div>
-  <div>
+  <div id="badges">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/android/android-original.svg"></div>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/android/android-original.svg"></div>
   </div>
 </div>
 
