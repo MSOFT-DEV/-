@@ -84,7 +84,7 @@
   <h1><h1>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeVS404&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
    <h1><h1>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVS404&layout=compact&theme=vision-friendly-dark" alt="GitHub Streak" /></a>
 </div>
 
 
